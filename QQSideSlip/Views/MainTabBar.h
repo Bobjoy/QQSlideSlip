@@ -1,9 +1,9 @@
 //
-//  MyNBTabBar.h
-//  NB2
+//  MainTabBar.h
+//  QQSideSlip
 //
-//  Created by kohn on 13-11-16.
-//  Copyright (c) 2013年 Kohn. All rights reserved.
+//  Created by Bobjoy on 15/11/10.
+//  Copyright © 2015年 BFL. All rights reserved.
 //
 
 #import <UIKit/UIKit.h>

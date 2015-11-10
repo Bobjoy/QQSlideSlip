@@ -2,7 +2,7 @@
 //  AppDelegate.m
 //  QQSideSlip
 //
-//  Created by Vetech on 15/11/10.
+//  Created by Bobjoy on 15/11/10.
 //  Copyright © 2015年 BFL. All rights reserved.
 //
 

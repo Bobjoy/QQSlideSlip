@@ -1,8 +1,10 @@
-/*
- Erica Sadun, http://ericasadun.com
- iPhone Developer's Cookbook, 3.0 Edition
- BSD License, Use at your own risk
- */
+//
+//  UIViewExt.m
+//  QQSideSlip
+//
+//  Created by Bobjoy on 15/11/10.
+//  Copyright © 2015年 BFL. All rights reserved.
+//
 
 #import "UIViewExt.h"
 

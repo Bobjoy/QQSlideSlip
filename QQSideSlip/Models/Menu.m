@@ -1,9 +1,9 @@
 //
 //  Menu.m
-//  AugsVetechB2G
+//  QQSideSlip
 //
-//  Created by Vetech on 15/10/13.
-//  Copyright © 2015年 doniel. All rights reserved.
+//  Created by Bobjoy on 15/11/10.
+//  Copyright © 2015年 BFL. All rights reserved.
 //
 
 #import "Menu.h"

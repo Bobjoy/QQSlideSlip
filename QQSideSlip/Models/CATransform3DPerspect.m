@@ -1,11 +1,10 @@
 //
 //  CATransform3DPerspect.m
-//  IOS_3D_UI
+//  QQSideSlip
 //
-//  Created by  on 9/25/12.
-//  Copyright (c) 2012 __MyCompanyName__. All rights reserved.
+//  Created by Bobjoy on 15/11/10.
+//  Copyright © 2015年 BFL. All rights reserved.
 //
-
 
 #import <QuartzCore/QuartzCore.h>
 #import "CATransform3DPerspect.h"

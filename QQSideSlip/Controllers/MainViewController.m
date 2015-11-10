@@ -1,9 +1,9 @@
 //
-//  ViewController.m
-//  QQSlideMenu
+//  MainViewController.m
+//  QQSideSlip
 //
-//  Created by wamaker on 15/6/10.
-//  Copyright (c) 2015年 wamaker. All rights reserved.
+//  Created by Bobjoy on 15/11/10.
+//  Copyright © 2015年 BFL. All rights reserved.
 //
 
 

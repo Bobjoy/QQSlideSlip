@@ -1,9 +1,9 @@
 //
 //  CATransform3DPerspect.h
-//  IOS_3D_UI
+//  QQSideSlip
 //
-//  Created by adam.worldmatrix@gmail.com on 9/25/12.
-//  Copyright (c) 2012 WorldMatrix. All rights reserved.
+//  Created by Bobjoy on 15/11/10.
+//  Copyright © 2015年 BFL. All rights reserved.
 //
 
 /**
